@@ -2,9 +2,11 @@
 
 Simple food menu made in **vanilla javascript** for hotels/restaurants use with additional buttons to sort out food and beverages.
 
-## Description
+## technology
 
-An in-depth paragraph about your project and overview of use.
+- HTML5
+- CSS3
+- **vanilla javascript**
 
 ## User Interface
 
