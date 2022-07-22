@@ -1,6 +1,6 @@
 # MENU
 
-Simple overview of use/purpose.
+Simple food menu made in **vanilla javascript** for hotels/restaurants use with additional buttons to sort out food and beverages.
 
 ## Description
 
