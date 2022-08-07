@@ -1,4 +1,4 @@
-# **Restaurant MENU**
+# **Restaurant Menu**
 
 Simple food menu made in **vanilla javascript** for hotels/restaurants use with additional buttons to sort out food and beverages.
 
